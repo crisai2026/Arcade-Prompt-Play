@@ -1,6 +1,6 @@
 # 🕹️ Arcade Prompt & Play
 
-Public home page for all my browser games: **https://crisai2026.github.io**
+Public home page for all the browser games: **https://crisai2026.github.io**
 
 ## Adding a game
 
