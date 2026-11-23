@@ -1,4 +1,4 @@
-# 🕹️ Arcade crisai2026
+# 🕹️ Arcade Prompt & Play
 
 Public home page for all my browser games: **https://crisai2026.github.io**
 
