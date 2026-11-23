@@ -1,17 +1,17 @@
 # 🕹️ Arcade crisai2026
 
-Portada pública con todos mis juegos de navegador: **https://crisai2026.github.io**
+Public home page for all my browser games: **https://crisai2026.github.io**
 
-## Agregar un juego
+## Adding a game
 
-Edita `index.html` y, dentro de la lista `GAMES`, copia un bloque `{ ... }` y cambia:
+Edit `index.html` and, inside the `GAMES` list, copy a `{ ... }` block and change:
 
-- `repo`: nombre del repositorio en github.com/crisai2026
-- `name`, `emoji`, `color`, `updated` (fecha AAAA-MM-DD)
-- `tags`: categorías (3d, action, sim, adventure, platform, rpg, calm, strategy, rhythm, 2p)
-- `play`: `"auto"` = https://crisai2026.github.io/&lt;repo&gt;/ (necesita GitHub Pages activado en ese repo), otro link, o `""`
-- `es` / `en`: descripción en español e inglés
-- `by`: quién lo hizo (opcional)
-- `hidden: true` para esconderlo sin borrarlo
+- `repo`: repository name on github.com/crisai2026
+- `name`, `emoji`, `color`, `updated` (date YYYY-MM-DD)
+- `tags`: categories (3d, action, sim, adventure, platform, rpg, calm, strategy, rhythm, 2p)
+- `play`: `"auto"` = https://crisai2026.github.io/&lt;repo&gt;/ (needs GitHub Pages turned on in that repo), another link, or `""`
+- `en` / `es`: description in English and Spanish
+- `by`: who made it (optional)
+- `hidden: true` to hide it without deleting it
 
-La portada revisa sola qué juegos tienen GitHub Pages activado y apaga el botón ▶ de los que no.
+The page checks by itself which games have GitHub Pages turned on and disables the ▶ button for the ones that don't.
